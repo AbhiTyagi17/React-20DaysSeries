@@ -21,7 +21,7 @@ This lets you experiment freely without affecting previous days.
 
 ---
 
-## 🧠 Prerequisites
+##  Prerequisites
 
 - Basic knowledge of **HTML, CSS, and JavaScript** (ES6+).
 - **Node.js** (v16 or later) and **npm** / **yarn** installed.
@@ -29,7 +29,7 @@ This lets you experiment freely without affecting previous days.
 
 ---
 
-## 🗓️ Curriculum Overview
+##  Curriculum Overview
 
 | Day | Topic |
 |-----|-------|
@@ -56,7 +56,7 @@ This lets you experiment freely without affecting previous days.
 
 ---
 
-## 🏃 How to Use This Repository
+##  How to Use This Repository
 
 1. **Clone** this repository:
    ```bash
