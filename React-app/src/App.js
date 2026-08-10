@@ -5,6 +5,7 @@ import UserCard from './Assignment_2/UserCard';
 import SmartCounter from './Assignment_3/SmartCounter'
 import EventDemo from './Assignment_4/EventDemo';
 import UserDashboard from './Assignment_5/UserDashboard';
+import TaskManager from './Assignment_6/TaskManager';
 
 
 function App() {
@@ -16,7 +17,7 @@ function App() {
     //   <UserCard name = "Abhi" age = {21} isAdmin = {true} />
     // </>
     <>
-      <UserDashboard />
+      <TaskManager />
     </>
   );
 }
