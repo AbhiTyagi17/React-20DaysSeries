@@ -33,7 +33,7 @@ function ProfileCard() {
   };
 
   return (
-    <div
+      <div
       className={`
         ${styles.card} 
         ${theme === 'light' ? styles.lightTheme : styles.darkTheme}

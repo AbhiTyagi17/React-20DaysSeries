@@ -7,6 +7,7 @@ import EventDemo from './Assignment_4/EventDemo';
 import UserDashboard from './Assignment_5/UserDashboard';
 import TaskManager from './Assignment_6/TaskManager';
 import ProfileCard from './Assignment_7/ProfileCard';
+import RegistrationForm from './Assignment_8/RegistrationForm';
 
 
 function App() {
@@ -18,7 +19,7 @@ function App() {
     //   <UserCard name = "Abhi" age = {21} isAdmin = {true} />
     // </>
     <>
-      <ProfileCard />
+      <RegistrationForm />
     </>
   );
 }
