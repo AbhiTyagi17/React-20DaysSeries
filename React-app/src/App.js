@@ -8,6 +8,7 @@ import UserDashboard from './Assignment_5/UserDashboard';
 import TaskManager from './Assignment_6/TaskManager';
 import ProfileCard from './Assignment_7/ProfileCard';
 import RegistrationForm from './Assignment_8/RegistrationForm';
+import TemperatureConverter from './Assignment_9/TemperatureConverter';
 
 
 function App() {
@@ -19,7 +20,7 @@ function App() {
     //   <UserCard name = "Abhi" age = {21} isAdmin = {true} />
     // </>
     <>
-      <RegistrationForm />
+      <TemperatureConverter />
     </>
   );
 }

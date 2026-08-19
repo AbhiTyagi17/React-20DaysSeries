@@ -100,7 +100,6 @@ function RegistrationForm(){
 
     if (validateForm()) {
       setSubmitSuccess(true);
-      // You could send data to an API here
       console.log('Form submitted:', formData);
     } else {
       setSubmitSuccess(false);
