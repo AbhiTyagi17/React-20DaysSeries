@@ -11,6 +11,7 @@ import RegistrationForm from './Assignment_8/RegistrationForm';
 import TemperatureConverter from './Assignment_9/TemperatureConverter';
 import PostsFetcher from './Assignment_10/PostFetcher';
 import CustomHooksDemo from './Assignment_11/CustomHooksDemo';
+import RefPlayground from './Assignment_12/RefPlayground';
 
 
 function App() {
@@ -22,7 +23,8 @@ function App() {
     //   <UserCard name = "Abhi" age = {21} isAdmin = {true} />
     // </>
     <>
-     <CustomHooksDemo />
+     {/* <CustomHooksDemo /> */}
+     <RefPlayground />
     </>
   );
 }
