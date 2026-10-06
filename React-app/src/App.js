@@ -12,6 +12,7 @@ import TemperatureConverter from './Assignment_9/TemperatureConverter';
 import PostsFetcher from './Assignment_10/PostFetcher';
 import CustomHooksDemo from './Assignment_11/CustomHooksDemo';
 import RefPlayground from './Assignment_12/RefPlayground';
+import FixedApp from './Assignment_13/BuggyApp';
 
 
 function App() {
@@ -24,7 +25,7 @@ function App() {
     // </>
     <>
      {/* <CustomHooksDemo /> */}
-     <RefPlayground />
+       <FixedApp />
     </>
   );
 }
